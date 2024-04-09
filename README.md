@@ -2,12 +2,12 @@
 
 ## Live Demo 
 
-- <a style="color:black; font-size:24px;" href="https://yargrinders.github.io/Universal_gulp/" target="_blank">Live Demo</a>
+- <a style="color:black; font-size:24px;" href="https://yargrinders.github.io/Xpense/" target="_blank">Live Demo</a>
 
 ## Install 
 
-- git clone https://github.com/yargrinders/Universal_gulp.git
-- cd Universal_gulp 
+- git clone https://github.com/yargrinders/Xpense.git
+- cd Xpense 
 - npm i
 
 ## Gulp Commands 
